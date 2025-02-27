@@ -1,3 +1,3 @@
 Replace the url below with the url we can use to access your website:
 
-https://main--magenta-sorbet-bcbbc8.netlify.app/index.html 
+https://symphonious-eclair-9c2121.netlify.app/
